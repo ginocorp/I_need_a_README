@@ -14,50 +14,48 @@
 
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return `
-  
-  # ${data.title}
+  return `# ${data.title}
   
   ![badge](https://img.shields.io/badge/${encodeURI(
     data.license)}-License-<color>)
     \n
-    ## Description  
+## Description  
     \n
-    ${data.description}
+${data.description}
     \n
-    ## Table of Contents
+## Table of Contents
     \n
-    * [Installation](#Installation)
-    * [Usage](#Usage)
-    * [License](#License)
-    * [Contributors](#Contributors)
-    * [Tests](#Tests)
-    * [Questions](#Questions)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributors](#Contributors)
+* [Tests](#Tests)
+* [Questions](#Questions)
     
-    ## Installation  
+## Installation  
     \n
-    ${data.installation}
+${data.installation}
     \n
-    ## Usage   
+## Usage   
     \n
-    ${data.usage}
+${data.usage}
     \n
-    ## License 
+## License 
     \n
-    ${data.license}
+${data.license}
     \n
-    ## Contributors  
+## Contributors  
     \n
-    ${data.contributors}
+${data.contributors}
     \n
-    ## Tests  
+## Tests  
     \n
-    ${data.tests}
+${data.tests}
     \n
-    ## Questions  
-    For any questions or concerns, contact me at ${data.email}
+## Questions  
+For any questions or concerns, contact me at ${data.email}
     \n
-    [Github](https://www.Github.com/${data.github})
+[Github](https://www.Github.com/${data.github})
    
   `;
 }

@@ -20,6 +20,9 @@
 * Created a rubric on the generateMarkdown.js to collect the information given after each question was prompted on the command-line
 * Added writeToFile function to index.js to push answers to generateMarkdown.js rubric 
 
+## Difficulties
+* The main issue I ran into and was not able to solve was the badge not displaying as an image on the sampleREADME.md
+
 ## Usage
 
 * Node.js
