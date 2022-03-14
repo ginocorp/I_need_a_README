@@ -21,7 +21,7 @@
 * Added writeToFile function to index.js to push answers to generateMarkdown.js rubric 
 
 ## Difficulties
-* The main issue I ran into and was not able to solve was the badge not displaying as an image on the sampleREADME.md
+* The main issue I ran into was the license badge not displaying as an image on the sampleREADME.md, but was able to fix after figuring out the typo. 
 
 ## Usage
 
