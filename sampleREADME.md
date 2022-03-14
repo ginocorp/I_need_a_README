@@ -1,12 +1,12 @@
-# title goes here
+# Readme generator
   
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  ![badge](https://img.shields.io/badge/MIT-License-<color>)
     
 
 ## Description  
     
 
-description goes here
+description of your application goes here
     
 
 ## Table of Contents
@@ -22,13 +22,13 @@ description goes here
 ## Installation  
     
 
-how to install steps
+steps on how the application can be installed
     
 
 ## Usage   
     
 
-usage to create this 
+state all usage in here
     
 
 ## License 
@@ -40,19 +40,19 @@ MIT
 ## Contributors  
     
 
-contributions for the application goes here
+myself :)
     
 
 ## Tests  
     
 
-by testing it
+add any testing used here
     
 
 ## Questions  
-For any questions or concerns, contact me at email@gmail.com
+For any questions or concerns, contact me at gino@gmail.com
     
 
-[Github](https://www.Github.com/github username)
+[Github](https://www.Github.com/ginocorp)
    
   
